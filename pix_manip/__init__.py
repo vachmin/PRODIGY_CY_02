@@ -1,1 +1,2 @@
+# Pixel manipulation tool package
 
